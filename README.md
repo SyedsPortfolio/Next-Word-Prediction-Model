@@ -6,7 +6,7 @@
 #### Tools used🛠: Python, Machine Learning, Deep Learning, NumPy, TensorFlow, Keras
 🔗dataset link -->https://sherlock-holm.es/ascii/
 
-## 🚧You see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
+## 🚧You can see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
 
 # Objective
 The aim is to predict the most probable word or sequence of words that follows a given input context.
